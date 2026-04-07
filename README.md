@@ -1,4 +1,4 @@
 # CS215-Portfolio-HilliardJ
 
-##Project Ideas
+## Project Ideas
 three project ideas
