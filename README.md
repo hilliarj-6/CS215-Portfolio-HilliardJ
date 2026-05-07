@@ -22,7 +22,7 @@ Apple Music Replay Data
 - I will be using my own personal data as the source. I listen to a good amount of music, so I am confident I will have enough data for this project. I am worried about being able to collect this data because the previous time I attempted, I failed and received the wrong information.
 - I am hoping to explore how my music taste has cahnged thorughout the years, what genres tend to pop up most and if it changes, and if my listening data be grouped into any moods?
 
-## Week 11 Update:
+## Week 11 Update
 - I have decided to analyze my own personal Apple Music Replay data for this project.
 - I obtained my data by going to Apple’s Data and Privacy website and submitting a request to have my data sent to me. It took a few days to receive, but the process was fairly easy.
 - The data came in multiple zipped files with a large amount of information. I still need to go through each file to understand what data is available and what kinds of analysis I can perform. From the few files I have already explored, the data appears to be fairly clean and well-organized.
