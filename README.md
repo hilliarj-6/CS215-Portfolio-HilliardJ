@@ -27,3 +27,7 @@ Apple Music Replay Data
 - I obtained my data by going to Apple’s Data and Privacy website and submitting a request to have my data sent to me. It took a few days to receive, but the process was fairly easy.
 - The data came in multiple zipped files with a large amount of information. I still need to go through each file to understand what data is available and what kinds of analysis I can perform. From the few files I have already explored, the data appears to be fairly clean and well-organized.
 - One challenge I anticipate is navigating through the layers of zipped files and figuring out what each file represents, but I am excited to work through this and begin developing meaningful analysis questions.
+
+## Week 12 Update
+-
+- 
