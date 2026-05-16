@@ -37,6 +37,11 @@ Apple Music Replay Data
 </iframe>
 Narration of Visualiztion: According to the interactive bar graph, comparing all the songs I've listened to, songs I marked as favorite have, on average, higher play counts and higher play duration (in minutes) than songs not marked as favorite. Favorited songs also have a slightly smaller average skip count. This suggests that favorited songs are played more often and listened to for a fuller amount of time. I found it interesting that the average skip count was pretty similar which suggests I skip my favorited songs about the same time as I skip non-favorited songs. The interactive bar graph is designed so one can hover over to see exact values. 
 
+## Week 14 Update
+- My project is now complete, I just need to update comments and narration throughout my Google coLab.
+- For my new technique, I am using cumulative growth analysis visualized with a Plotly Scatterplot. I am learning it with the assistance of ChatGPT.
+- My communication strategy will be a Google Slides presentation and screenshots of my graphs. I might also link my GitHub website so I can showcase the interactive aspect of my graphs. 
+
 ## All interactive Graphs
 
 <iframe 
