@@ -56,6 +56,6 @@ Narration of Visualiztion: According to the interactive bar graph, comparing all
 <iframe 
   src="growth_plot.html" 
   width="100%" 
-  height="300"
+  height="450"
   style="border:none;">
 </iframe>
