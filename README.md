@@ -29,5 +29,14 @@ Apple Music Replay Data
 - One challenge I anticipate is navigating through the layers of zipped files and figuring out what each file represents, but I am excited to work through this and begin developing meaningful analysis questions.
 
 ## Week 12 Update
--
-- 
+<iframe 
+  src="favorite_vs_nonfavorite_plot.html" 
+  width="100%" 
+  height="600" 
+  style="border:none;">
+</iframe>
+
+- Narration of Visualiztion:
+
+According to the interactive bar graph, comparing all the songs I've listened to, songs I marked as favorite have, on average, higher play counts and higher play duration (in minutes) than songs not marked as favorite. Favorited songs also have a slightly smaller average skip count. This suggests that favorited songs are played more often and listened to for a fuller amount of time. I found it interesting that the average skip count was pretty similar which suggests I skip my favorited songs about the same time as I skip non-favorited songs. The interactive bar graph is designed so one can hover over to see exact values. 
+
