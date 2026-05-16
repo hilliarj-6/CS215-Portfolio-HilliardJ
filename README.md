@@ -54,13 +54,13 @@ Narration of Visualiztion: According to the interactive bar graph, comparing all
 <iframe 
   src="monthly_listening_plot.html" 
   width="100%" 
-  height="400" 
+  height="600" 
   style="border:none;">
 </iframe>
 
 <iframe 
   src="growth_plot.html" 
   width="100%" 
-  height="450"
+  height="600"
   style="border:none;">
 </iframe>
