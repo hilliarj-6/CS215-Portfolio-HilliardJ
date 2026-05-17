@@ -50,6 +50,10 @@ To begin this project, I requested my Apple Music Replay and listening history d
 
 ### Main Insights & Visualizations
 
+One of the most useful visualization techniques I implemented throughout this project was the use of Plotly visualizations. The interactive features were so fun to explore in greater detail because I was able to hover over points and view exact values directly within the graphs. I loved the Plotly scatterplots and being able to see each song from my ten years of listening data. I also found that the interactivity made the visualizations more engaging and effective for communicating trends.
+
+The most interesting insight for me was that “Black Star” by Radiohead had the highest listening growth rate after first listen, meaning it rapidly became a major part of my listening behavior shortly after I first heard it. This did not surprise me as I love "Black Star". Another surprising finding was that I listened to over 173 hours of music during the month of November 2021 alone. Overall, the project revealed that my listening behavior changes dramatically over time and that certain songs can quickly become dominant parts of my listening history. I had a lot of fun creating this project, and in this class in general!
+
 <iframe 
   src="monthly_listening_plot.html" 
   width="100%" 
@@ -66,7 +70,7 @@ Narration of Visualization: The line plot shows my monthly listening activity ac
   style="border:none;">
 </iframe>
 
-Narration of Visualiztion: According to the interactive bar graph, comparing all the songs I've listened to, songs I marked as favorite have, on average, higher play counts and higher play duration (in minutes) than songs not marked as favorite. Favorited songs also have a slightly smaller average skip count. This suggests that favorited songs are played more often and listened to for a fuller amount of time. I found it interesting that the average skip count was pretty similar which suggests I skip my favorited songs about the same time as I skip non-favorited songs. The interactive bar graph is designed so one can hover over to see exact values. 
+Narration of Visualization: According to the interactive bar graph, comparing all the songs I've listened to, songs I marked as favorite have, on average, higher play counts and higher play duration (in minutes) than songs not marked as favorite. Favorited songs also have a slightly smaller average skip count. This suggests that favorited songs are played more often and listened to for a fuller amount of time. I found it interesting that the average skip count was pretty similar which suggests I skip my favorited songs about the same time as I skip non-favorited songs. The interactive bar graph is designed so one can hover over to see exact values. 
 
 <iframe 
   src="growth_plot.html" 
@@ -78,3 +82,7 @@ Narration of Visualiztion: According to the interactive bar graph, comparing all
 Narration of Visualization: The bubble chart displays each song in my listening history and how many total hours I spent listening to each song. The songs with the largest listening growths are represented by the larger yellow bubbles. The number of days since I first discovered each song are on the x-axis, while total listening hours are on the y-axis. Most songs are near the bottom of the graph, indicating relatively low long-term listening accumulation. However, several songs stand out with both large listening totals and high listening growth rates, suggesting that they rapidly became major parts of my listening habits shortly after discovery. This visualization highlights how some songs gradually accumulate listening activity while others quickly dominate listening behavior.
 
 One interesting pattern I noticed is that many of the smallest bubbles appear toward both the bottom and the left side of the graph, while many of the larger bubbles are associated with more recently discovered songs. I think this may suggest that over time I have developed a stronger understanding of my music taste and have become better at finding songs that I strongly connect with. As a result, more recently discovered songs may accumulate listening hours and listening growth more rapidly than songs I discovered in earlier years.
+
+### Future Work
+
+If I had more time or resources, I would be interested in expanding this project by comparing my personal top songs to the most popular songs during the same time periods in order to explore how closely my listening behavior aligns with popular music trends. I would also like to investigate how my listening habits change during stressful periods such as finals week or midterms. In addition, it would be interesting to continue updating this project with more recent listening data in order to observe how my music preferences and listening behaviors continue to evolve over time.
