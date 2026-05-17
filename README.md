@@ -48,6 +48,8 @@ For my project, I chose to analyze my own **Apple Music Replay data**. I decided
 
 To begin this project, I requested my Apple Music Replay and listening history data directly from Apple’s Data & Privacy portal. After downloading the files, I explored a multitude of Apple iTunes CSV and JSON files, and identified information related to listening history, favorites, play duration, rankings, and timestamps. I used Python and pandas in Google Colab to clean and transform the datasets. This included converting dates into datetime format, calculating play duration hours from milliseconds, grouping and aggregating data, and merging information across multiple files. I then used Plotly to create interactive visualizations to better understand long-term trends, listening behaviors, and song growth patterns within my listening history.
 
+To see all my data analysis, please read my Final Project Google CoLab which is linked as a ipynb file in the GitHub repository. My files are too big to link here so they will be attached through canvas and they will be in my Final Project Google Drive folder. 
+
 ### Main Insights & Visualizations
 
 One of the most useful visualization techniques I implemented throughout this project was the use of Plotly visualizations. The interactive features were so fun to explore in greater detail because I was able to hover over points and view exact values directly within the graphs. I loved the Plotly scatterplots and being able to see each song from my ten years of listening data. I also found that the interactivity made the visualizations more engaging and effective for communicating trends.
