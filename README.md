@@ -83,6 +83,12 @@ Narration of Visualization: The bubble chart displays each song in my listening 
 
 One interesting pattern I noticed is that many of the smallest bubbles appear toward both the bottom and the left side of the graph, while many of the larger bubbles are associated with more recently discovered songs. I think this may suggest that over time I have developed a stronger understanding of my music taste and have become better at finding songs that I strongly connect with. As a result, more recently discovered songs may accumulate listening hours and listening growth more rapidly than songs I discovered in earlier years.
 
+### Reflection:
+
+I had a lot of fun working on this final project. I enjoyed combining my interest in music with data analysis and visualization techniques. I was surprised by how much information was included within the Apple Music Replay datasets. It took me a while to go through the files, make sense of the data, and organize which datasets I felt were most appropriate for this project.
+
 ### Future Work
 
 If I had more time or resources, I would be interested in expanding this project by comparing my personal top songs to the most popular songs during the same time periods in order to explore how closely my listening behavior aligns with popular music trends. I would also like to investigate how my listening habits change during stressful periods such as finals week or midterms. In addition, it would be interesting to continue updating this project with more recent listening data in order to observe how my music preferences and listening behaviors continue to evolve over time.
+
+
