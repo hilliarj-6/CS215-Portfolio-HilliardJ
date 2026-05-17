@@ -54,11 +54,17 @@ To begin this project, I requested my Apple Music Replay and listening history d
   height="600" 
   style="border:none;">
 </iframe>
-
-Narration of Visualization: The visualization shows my monthly listening activity across the last 10 years. While some periods show relatively steady listening behavior, other periods contain large spikes in total listening hours. I believe these spikes may be due to changes in routines, school workload, or periods where music played a larger role in my daily life. Overall, the line plot suggests that my listening behavior is not constant over time and instead changes substantially across different periods of my life.
-
 <iframe 
   src="monthly_listening_plot.html" 
+  width="100%" 
+  height="600" 
+  style="border:none;">
+</iframe>
+
+Narration of Visualization: The line plot shows my monthly listening activity across the last 10 years. While some periods show relatively steady listening behavior, other periods contain large spikes in total listening hours. I believe these spikes may be due to changes in routines, school workload, or periods where music played a larger role in my daily life. Overall, the line plot suggests that my listening behavior is not constant over time and instead changes substantially across different periods of my life.
+
+<iframe 
+  src="favorite_vs_nonfavorite_plot.html" 
   width="100%" 
   height="600" 
   style="border:none;">
